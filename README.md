@@ -11,5 +11,7 @@ This is the app that enables you to enter a message.
 <img width="1280" alt="screen shot 2017-10-06 at 4 52 56 pm" src="https://user-images.githubusercontent.com/31743714/31309443-54708748-ab54-11e7-8d96-a280d1c25e43.png">
 I actually enter "wyc" which is my inital
 
+<img width="382" alt="screen shot 2017-10-06 at 4 53 08 pm" src="https://user-images.githubusercontent.com/31743714/31309489-ec26f798-ab54-11e7-91ed-d5639927f29f.png">
+This app enabled "send" button at this step, and I modify the size of the text displayed on the screen.
 
 
